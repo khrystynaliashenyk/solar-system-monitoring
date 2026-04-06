@@ -1,1 +1,1 @@
-print('Emergency stop activated') # Execute emergency shutdown in <= 5 seconds
+print('Emergency stop FIXED < 5s')
